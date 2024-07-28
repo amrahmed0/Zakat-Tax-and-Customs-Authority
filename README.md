@@ -32,7 +32,7 @@ This project involves a comprehensive analysis of data related to the Zakat, Tax
    - Visualizing the data through an interactive dashboard.
    - Ensuring real-time updates whenever new data is added to the database.
 
-## Data Issues 
+## Data Issues git commit -m "Add README file"
 
 - **Repeated Company Names**: Corrected names that appeared multiple times with slight variations.
 - **Date Format**: Converted date data from float to proper date format.
